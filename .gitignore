@@ -2,3 +2,7 @@
 node_modules
 
 .idea
+
+bot.dev.js
+
+dist/
